@@ -1,0 +1,23 @@
+div {
+    margin: 2em;
+    display: inline-block;
+}
+
+button {
+    padding: 0.4em;
+    border-radius: 11%;
+    background-color: #D4E0EF;
+}
+
+.cell {
+    display: inline-block;
+    margin: 0.5em;
+    background-color: #FADC7A;
+    border-radius: 20%;
+    border-style: groove;
+    padding: 0.2em 0.4em;
+}
+
+.cell:first-child {
+    margin-left: 0em;
+}
